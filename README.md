@@ -1,2 +1,0 @@
-# TeenFAQ
-Teen FAQ website
